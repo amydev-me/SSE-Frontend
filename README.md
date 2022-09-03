@@ -1,4 +1,4 @@
-# React.js-UI
+# React Frontend
 Sign-Off Task for SSE Module,  University Of Portsmouth
 
 # Description 
